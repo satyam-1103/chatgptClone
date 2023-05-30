@@ -10,3 +10,4 @@ This project cannot be deployed anywhere because of the limitations of OpenAI `A
 
 ## Screenshot
 
+![Screenshot 2023-05-30 at 11-00-08 ChatGPT Clone](https://github.com/satyam-1103/chatgptClone/assets/76150336/f3a556f0-efef-4b4c-8b22-1403c676eb19)
